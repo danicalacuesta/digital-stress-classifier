@@ -1,2 +1,2 @@
-# ticketmaster-event-sales-prediction
-Utilizes Ticketmaster API to collect event metadata to predict the popularity of concert tickrtsales
+# digital-stress-classifier
+This project analyzes digital activity patterns to classify user stress levels and identify the behavioral features that most strongly impact predictive accuracy.
